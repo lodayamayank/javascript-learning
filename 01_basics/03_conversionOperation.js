@@ -21,3 +21,9 @@ let x = 43
 let stringNumber = String(x)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+/**** Operations ******/
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 +"2");
